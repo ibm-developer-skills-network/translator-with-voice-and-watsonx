@@ -1,4 +1,3 @@
-
 def speech_to_text(audio_binary):
     return None
 
