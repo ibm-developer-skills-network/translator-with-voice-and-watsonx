@@ -2,3 +2,4 @@ Flask
 Flask_Cors
 requests
 ibm_watson_machine_learning
+langchain
